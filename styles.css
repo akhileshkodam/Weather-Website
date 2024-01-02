@@ -1,0 +1,50 @@
+.body{
+    background-image: url(./images/imgage1.jpg );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+    padding: 10px;
+    margin-top: 100px;
+}
+.head{
+    color: white;
+    padding: 10px;
+}
+#input{
+    border: 2px solid rgb(184, 201, 213);
+    padding: 5px 20px;
+    background-color: #204990;
+    border-radius: 20px;
+    color: white;
+    width: 300px;
+}
+/* .result{
+    background-color: rgb(0, 162, 255);
+} */
+.weather{
+    padding: 30px 10px 10px 10px;
+    background-color: rgba(38, 93, 151, 0.7);
+    width: 500px;
+    position: relative;
+    left: 530px;
+    border: 1px solid rgb(55, 106, 160);
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px #4e7296;
+}
+#submit i{
+        margin-right: 5px;
+}
+.btn1{
+    background: transparent;
+    width: 42px;
+    border: 1px solid rgb(209, 222, 236);
+    border-radius: 20px;
+    height: 38px;
+    margin-left: 10px;
+}
+.btn1:hover{
+    background-color: rgb(95, 129, 206);
+    border: 1px solid white;
+}
